@@ -6,9 +6,14 @@
 
    Install the requests library by running pip install requests in your command prompt or terminal.
    Install the pandas library by running pip install pandas in your command prompt or terminal.
-   Generate a personal access token (PAT) from GitHub:
+   
+         pip install requests
+         pip install pandas
+   
 
-2.  Go to your GitHub account settings and navigate to "Developer settings" -> "Personal access tokens."
+2.  Generate a personal access token (PAT) from GitHub:
+
+    Go to your GitHub account settings and navigate to "Developer settings" -> "Personal access tokens."
     Click on "Generate new token" and provide a description for your token.
     Select the necessary permissions (e.g., repo) for accessing your repository.
     Click on "Generate token" and make sure to copy the generated token.
